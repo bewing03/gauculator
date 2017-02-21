@@ -23,7 +23,7 @@ a:hover {
 
 @font-face {
     font-family: existence;
-    src: url(fonts/Existence-Light.ttf);
+    src: url(Existence-Light.ttf);
 }
 
 /*
@@ -33,7 +33,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url(images/general3.jpg);
+  background-image: url(general3.jpg);
   background-size: cover;
   font-family: existence;
 }
