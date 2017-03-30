@@ -1,0 +1,13 @@
+{
+  "name": "node-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "express-form": "^0.12.6",
+    "express-validator": "^3.1.2",
+    "mongodb": "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
