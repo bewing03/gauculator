@@ -1,0 +1,40 @@
+/* Bordered form */
+form {
+    
+}
+
+@font-face {
+    font-family: existence;
+    src: url(Existence-Light.ttf);
+}
+
+/* Full-width inputs */
+input[type=text] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-family: existence;
+    color: black;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    font-size: 20px;
+    font-family: existence;
+}
+
+/* Add padding to containers */
+.container {
+    padding: 16px;
+}
+
